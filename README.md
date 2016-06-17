@@ -1,2 +1,7 @@
 # hello-world
-Practise project for testing out github
+
+hi everyone
+
+I am working on a new project. 
+
+Blah, Blah, Blah
